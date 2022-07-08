@@ -8,7 +8,7 @@
 ![Fonal](https://user-images.githubusercontent.com/87765555/169575365-7c3cd1e2-a855-4897-9677-0d277cfe6986.png)
 
 
-  #Tools and Technologies:
+ 
 
 
  
