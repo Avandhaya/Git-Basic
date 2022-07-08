@@ -62,7 +62,7 @@
 * Can approve all Staff accounts
 * Has access to Admin dashboard
 * Can monitor staff activity
-* Can monitor user activity
+
 
 
 
