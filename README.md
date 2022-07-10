@@ -58,7 +58,7 @@ T REQUIREMENTS
 * Update profiles and reservations
 * Can search flights (using flight ID)
 ### Admin
-* Option to add staff members
+
 * Can approve all Staff accounts
 * Has access to Admin dashboard
 * Can monitor staff activity
