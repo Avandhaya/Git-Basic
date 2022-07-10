@@ -59,7 +59,7 @@ T REQUIREMENTS
 * Can search flights (using flight ID)
 ### Admin
 
-* Can approve all Staff accounts
+* 
 * Has access to Admin dashboard
 * Can monitor staff activity
 
