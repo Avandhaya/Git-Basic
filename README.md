@@ -37,11 +37,7 @@
 
 T REQUIREMENTS 
 ### <u>Staff</u>
-* Can create account
-* Acc should be <u>approved</u> by Admin
-* Staff members can be added by Admin
-* Has access to Staff dashboard
-* Has access to user dashboard
+
 ### Grade 1
 * update, delete user info
 * update, delete flights
